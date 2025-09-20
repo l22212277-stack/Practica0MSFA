@@ -2,7 +2,7 @@
 
 # Práctica 0: Modelo del sistema respiratorio
 
-## Infromación del\la estudiante
+## Infromación del estudiante
 Alberto Villalobos \[22212277]: ; L22212277@tectijuana.edu.mx
 
 Modelado de Sistemas Fisiológicos
